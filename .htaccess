@@ -1,9 +1,4 @@
 <Files "secret_page.html">
-    Order allow,deny
-    Deny from all
+    Options -Indexes
 </Files>
 
-<Files "secret_recaptcha.html">
-    Order allow,deny
-    Deny from all
-</Files>
