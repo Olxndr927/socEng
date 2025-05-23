@@ -1,0 +1,39 @@
+body {
+  background-color: #000;
+  color: #ffe81f;
+  font-family: 'Arial Black', sans-serif;
+  margin: 0;
+  padding: 2rem;
+  line-height: 1.6;
+}
+
+h1 {
+  font-size: 2.5rem;
+  text-shadow: 0 0 10px #ffe81f;
+}
+
+p, li {
+  font-size: 1.2rem;
+}
+
+a {
+  color: #00e1ff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+form {
+  background-color: #111;
+  padding: 1.5rem;
+  border: 2px solid #ffe81f;
+  display: inline-block;
+  border-radius: 8px;
+}
