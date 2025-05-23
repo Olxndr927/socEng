@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /secret_page.html
+Disallow: /secret_recaptcha.html
